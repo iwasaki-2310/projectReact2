@@ -16,6 +16,9 @@ const App = () => {
     <React.Fragment>
       <h1>こんにちは！</h1>
       <p>お元気ですか？</p>
+      <p>お元気ですか？</p>
+      <p>Github連携!!</p>
+      <p>Github連携!!</p>
     </React.Fragment>
   );
 };
